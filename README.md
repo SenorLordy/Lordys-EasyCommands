@@ -7,7 +7,7 @@ Currently only a few commands are available this should change in the future. If
 
 # Permissions
 
-Each command (except Help Command) has its own permission. The Help Command has no permission and can be used by anyone. The permissions are listed here
+Each command (except Help Command) has its own permission. The Help Command has no permission and can be used by anyone. The permissions are listed here:
 
 - lec.gm.surival
 - lec.gm.adventure
