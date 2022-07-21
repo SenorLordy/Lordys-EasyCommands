@@ -17,3 +17,15 @@ Each command (except Help Command) has its own permission. The Help Command has 
 - lec.heal
 - lec.feed
 - lec.open.enderchest
+
+
+# Commands
+
+- /surival <player>
+- /adventure <player>
+- /creative <player>
+- /spectator <player>
+- /workbench or /wb
+- /heal <player>
+- /feed <player>
+- /enderchest or /ec
