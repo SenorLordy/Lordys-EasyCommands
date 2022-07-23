@@ -23,15 +23,15 @@ Each command (except Help and Info Command) has its own permission. The Help and
 
 # Commands
 
-- /surival <player>
-- /adventure <player>
-- /creative <player>
-- /spectator <player>
+- /surival < player >
+- /adventure < player >
+- /creative < player >
+- /spectator <player >
 - /workbench or /wb
-- /heal <player>
-- /feed <player>
+- /heal < player >
+- /feed < player >
 - /enderchest or /ec
-- /summon <mob> <amount> or /sm <mob> <amount>
+- /summon < mob > < amount > or /sm < mob > < amount >
 - /moblist
 
 - /lec-info
