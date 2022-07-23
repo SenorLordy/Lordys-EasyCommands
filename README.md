@@ -17,6 +17,8 @@ Each command (except Help and Info Command) has its own permission. The Help and
 - lec.heal
 - lec.feed
 - lec.open.enderchest
+- lec.mob.spawn
+- lec.mob.list
 
 
 # Commands
@@ -29,5 +31,8 @@ Each command (except Help and Info Command) has its own permission. The Help and
 - /heal <player>
 - /feed <player>
 - /enderchest or /ec
+- /summon <mob> <amount> or /sm <mob> <amount>
+- /moblist
+
 - /lec-info
 - /lec-help
